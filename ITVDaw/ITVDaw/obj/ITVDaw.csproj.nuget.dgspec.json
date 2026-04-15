@@ -1,0 +1,93 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\ARCHIVOS PROPIOS\\DESCARGAS FIREFOX\\CLASE\\Programacion\\TEMA 9\\ITVDaw\\ITVDaw\\ITVDaw.csproj": {}
+  },
+  "projects": {
+    "C:\\ARCHIVOS PROPIOS\\DESCARGAS FIREFOX\\CLASE\\Programacion\\TEMA 9\\ITVDaw\\ITVDaw\\ITVDaw.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\ARCHIVOS PROPIOS\\DESCARGAS FIREFOX\\CLASE\\Programacion\\TEMA 9\\ITVDaw\\ITVDaw\\ITVDaw.csproj",
+        "projectName": "ITVDaw",
+        "projectPath": "C:\\ARCHIVOS PROPIOS\\DESCARGAS FIREFOX\\CLASE\\Programacion\\TEMA 9\\ITVDaw\\ITVDaw\\ITVDaw.csproj",
+        "packagesPath": "C:\\Users\\Javier\\.nuget\\packages\\",
+        "outputPath": "C:\\ARCHIVOS PROPIOS\\DESCARGAS FIREFOX\\CLASE\\Programacion\\TEMA 9\\ITVDaw\\ITVDaw\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Javier\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net10.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net10.0": {
+            "targetAlias": "net10.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "10.0.100"
+      },
+      "frameworks": {
+        "net10.0": {
+          "targetAlias": "net10.0",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[11.0.0-preview.2.26159.112, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[11.0.0-preview.2.26159.112, )"
+            },
+            "Serilog": {
+              "target": "Package",
+              "version": "[4.3.2-dev-02419, )"
+            },
+            "Serilog.Settings.Configuration": {
+              "target": "Package",
+              "version": "[10.0.1-dev-02330, )"
+            },
+            "Serilog.Sinks.Console": {
+              "target": "Package",
+              "version": "[6.1.1, )"
+            },
+            "Serilog.Sinks.File": {
+              "target": "Package",
+              "version": "[8.0.0-nblumhardt-02322, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

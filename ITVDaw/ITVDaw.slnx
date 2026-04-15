@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="ITVDaw.Test/ITVDaw.Test.csproj" />
+  <Project Path="ITVDaw/ITVDaw.csproj" />
+</Solution>

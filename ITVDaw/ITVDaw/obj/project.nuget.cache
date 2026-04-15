@@ -1,0 +1,26 @@
+{
+  "version": 2,
+  "dgSpecHash": "iFck/N452B8=",
+  "success": true,
+  "projectFilePath": "C:\\ARCHIVOS PROPIOS\\DESCARGAS FIREFOX\\CLASE\\Programacion\\TEMA 9\\ITVDaw\\ITVDaw\\ITVDaw.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Javier\\.nuget\\packages\\microsoft.extensions.configuration\\11.0.0-preview.2.26159.112\\microsoft.extensions.configuration.11.0.0-preview.2.26159.112.nupkg.sha512",
+    "C:\\Users\\Javier\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\11.0.0-preview.2.26159.112\\microsoft.extensions.configuration.abstractions.11.0.0-preview.2.26159.112.nupkg.sha512",
+    "C:\\Users\\Javier\\.nuget\\packages\\microsoft.extensions.configuration.binder\\10.0.0\\microsoft.extensions.configuration.binder.10.0.0.nupkg.sha512",
+    "C:\\Users\\Javier\\.nuget\\packages\\microsoft.extensions.configuration.fileextensions\\11.0.0-preview.2.26159.112\\microsoft.extensions.configuration.fileextensions.11.0.0-preview.2.26159.112.nupkg.sha512",
+    "C:\\Users\\Javier\\.nuget\\packages\\microsoft.extensions.configuration.json\\11.0.0-preview.2.26159.112\\microsoft.extensions.configuration.json.11.0.0-preview.2.26159.112.nupkg.sha512",
+    "C:\\Users\\Javier\\.nuget\\packages\\microsoft.extensions.dependencymodel\\10.0.0\\microsoft.extensions.dependencymodel.10.0.0.nupkg.sha512",
+    "C:\\Users\\Javier\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\11.0.0-preview.2.26159.112\\microsoft.extensions.fileproviders.abstractions.11.0.0-preview.2.26159.112.nupkg.sha512",
+    "C:\\Users\\Javier\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\11.0.0-preview.2.26159.112\\microsoft.extensions.fileproviders.physical.11.0.0-preview.2.26159.112.nupkg.sha512",
+    "C:\\Users\\Javier\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\11.0.0-preview.2.26159.112\\microsoft.extensions.filesystemglobbing.11.0.0-preview.2.26159.112.nupkg.sha512",
+    "C:\\Users\\Javier\\.nuget\\packages\\microsoft.extensions.primitives\\11.0.0-preview.2.26159.112\\microsoft.extensions.primitives.11.0.0-preview.2.26159.112.nupkg.sha512",
+    "C:\\Users\\Javier\\.nuget\\packages\\serilog\\4.3.2-dev-02419\\serilog.4.3.2-dev-02419.nupkg.sha512",
+    "C:\\Users\\Javier\\.nuget\\packages\\serilog.settings.configuration\\10.0.1-dev-02330\\serilog.settings.configuration.10.0.1-dev-02330.nupkg.sha512",
+    "C:\\Users\\Javier\\.nuget\\packages\\serilog.sinks.console\\6.1.1\\serilog.sinks.console.6.1.1.nupkg.sha512",
+    "C:\\Users\\Javier\\.nuget\\packages\\serilog.sinks.file\\8.0.0-nblumhardt-02322\\serilog.sinks.file.8.0.0-nblumhardt-02322.nupkg.sha512",
+    "C:\\Users\\Javier\\.nuget\\packages\\system.io.pipelines\\11.0.0-preview.2.26159.112\\system.io.pipelines.11.0.0-preview.2.26159.112.nupkg.sha512",
+    "C:\\Users\\Javier\\.nuget\\packages\\system.text.encodings.web\\11.0.0-preview.2.26159.112\\system.text.encodings.web.11.0.0-preview.2.26159.112.nupkg.sha512",
+    "C:\\Users\\Javier\\.nuget\\packages\\system.text.json\\11.0.0-preview.2.26159.112\\system.text.json.11.0.0-preview.2.26159.112.nupkg.sha512"
+  ],
+  "logs": []
+}
