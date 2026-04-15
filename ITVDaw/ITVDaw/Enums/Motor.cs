@@ -1,9 +1,9 @@
 ﻿namespace ITVDaw.Enums;
 
-public class Motor
+public enum Motor
 {
-    private string diesel;
-    private string electrico;
-    private string gasolina;
-    private string hibrido;
+    Diesel,
+    Electrico,
+    Gasolina,
+    Hibrido
 }
